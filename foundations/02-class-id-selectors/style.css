@@ -1,0 +1,19 @@
+#different1 {
+    color: rgba(7, 7, 241, 0.836);
+    font-size: 36px;
+}
+
+#different2 {
+    background-color: rgba(32, 187, 32, 0.685);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.pink {
+    background-color: rgba(226, 110, 129, 0.897);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.pink.big {
+    font-size: 24px;
+}
